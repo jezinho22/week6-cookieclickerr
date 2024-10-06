@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(254, 254, 242);
+}
+
+.increment-button {
+  margin: auto;
+  width: 10%;
+  border: 3px solid green;
+  padding: 10px;
+  display: inline-block;
+  padding: 0.6em 1.7em;
+  border: 0.1em solid #e0c3c3;
+  margin: 0 0.3em 0.3em 0;
+  border-radius: 0.12em;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  color: #000000;
+  text-align: center;
+  transition: all 0.2s;
+}
+
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.increment-button:hover {
+  color: #070101;
+  background-color: #f1edd6;
+}
