@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./app.css";
+import "./App.css";
 import Timer from "./components/Timer";
 import Button from "./components/Button";
 import cookieImage from "./assets/cookie.jpeg";
